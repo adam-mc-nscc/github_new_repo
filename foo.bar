@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  3 adam adam 4096 Apr  5 06:10 ./
+drwxr-xr-x 24 adam adam 4096 Apr  5 06:10 ../
+-rw-rw-r--  1 adam adam    0 Apr  5 06:10 foo.bar
+drwxrwxr-x  8 adam adam 4096 Apr  5 06:10 .git/
+-rw-rw-r--  1 adam adam   57 Mar 31 11:56 README.md
